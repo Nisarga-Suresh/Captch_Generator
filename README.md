@@ -1,1 +1,1 @@
-# Captch_Genertor
+# Captch_Generator
